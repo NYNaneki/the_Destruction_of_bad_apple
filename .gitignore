@@ -1,0 +1,6 @@
+*.exe
+*.go
+*.txt
+*.xml
+*.nmsl
+./fans/*.json
